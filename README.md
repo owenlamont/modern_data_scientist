@@ -34,12 +34,12 @@ Then convolute the textures and reproject your spatial rasters
 Your dataset I can both describe and artificially recreate  
 Pair plot your feature matrix to visualise their correlate  
 Report feature relations which I’ll present with clarity  
-and re-encode data to reduce dimensionality  
+and re-encode the data to reduce dimensionality  
 
 **\[CHORUS\]**  
-And re-encode data to reduce dimensionality  
-And re-encode data to reduce dimensionality  
-And re-encode data to reduce dima-dimensionality  
+And re-encode the data to reduce dimensionality  
+And re-encode the data to reduce dimensionality  
+And re-encode the data to reduce dia-dimensionality  
 
 **\[DATA SCIENTIST\]**  
 I can resample time series to intervals uniform  
@@ -59,15 +59,19 @@ And when I know precisely what is meant by covariate
 When I'm familiar with the progress made in reinforcement learning  
 When I know more statistics than a MOOC taught yearling  
 In short, when I’ve achieved undergraduate level numeracy  
-You’ll say a better Data Scientist never existed, seriously  
+You’ll say a better Data Scientist never coded analytically  
 
 **\[CHORUS\]**  
-You’ll say a better Data Scientist never existed, seriously  
-You’ll say a better Data Scientist never existed, seriously  
-You’ll say a better Data Scientist never existed, serio seriously  
+You’ll say a better Data Scientist never coded analytically  
+You’ll say a better Data Scientist never coded analytically  
+You’ll say a better Data Scientist never coded ana-analytically  
 
 **\[DATA SCIENTIST\]**  
 For my academic knowledge though I’ve greatness yet unforeseen  
 Has only been brought down from the beginning of twenty seventeen  
 But still with variables categorical, ordinal, continuous  
 I am the very model of the modern Data Scientist!  
+
+**\[CHORUS\]**  
+But still with variables categorical, ordinal, continuous  
+They are the very model of the modern Data Scientist
